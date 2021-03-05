@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zalando Research</title>
+    <link>https://research.zalando.com/categories/</link>
+    <description>Recent content in Categories on Zalando Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Zalando SE, 2021</copyright><atom:link href="https://research.zalando.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
