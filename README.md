@@ -24,4 +24,4 @@ The static Zalando Research website built via Hugo.
     hugo server --watch
  ```
 
- Open [localhost:1313](localhost:1313) and the website should appear.
+ Open [localhost:1313](http://localhost:1313) and the website should appear.
