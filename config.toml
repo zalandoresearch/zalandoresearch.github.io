@@ -22,6 +22,10 @@ tag = "tags"
   slogan = "WELCOME TO ZALANDO RESEARCH"
   slogan_text = "SCALING TECH IN FASHION WITH THE POWER OF EXPERIMENTATION IN THEORY AND PRACTICE."
 
+  [params.logo]
+    image = "img/zalando-research-logo.svg"
+    link = "https://research.zalando.com/"
+
   [[params.slogan_columns]]
     title = "About"
     text =  "Zalando Research is an endeavor to place Zalando at the forefront of cutting-edge research and to complement our already strong foothold on technology. We want to carve out an academic starting point for Zalando Technology. We aim to give our great researchers an outlet where they can be better organized and aligned. Finally, also want to have a greater impact in the tech research community, especially in the fields of data science, machine learning, and artificial intelligence."
