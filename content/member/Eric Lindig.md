@@ -5,9 +5,9 @@ id = "member1"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "Member Member"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
+short_bio = "My name ist Eric Lindig and this is a test."
 short_name = ""
-title = "Member 1"
+title = "Eric Lindig"
 
 [[social]]
     icon = "envelope"
