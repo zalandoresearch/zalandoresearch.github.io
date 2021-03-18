@@ -1,10 +1,10 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member1"
+id = "eric"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
-portrait = "/portraits/IMG_5714.jpg"
+name = "Eric Lindig"
+portrait = "/portraits/IMG_5714.JPG"
 short_bio = "Eric is our contact for research collaborations and academic relations."
 short_name = ""
 title = "Eric Lindig"
