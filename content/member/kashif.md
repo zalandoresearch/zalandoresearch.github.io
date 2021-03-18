@@ -30,7 +30,7 @@ title = "Kashif Rasul"
     link = "//github.com/kashif"
 
 [[education]]
-    course = "PhD in Mathematics"
+    course = "Ph.D. in Mathematics"
     institution = 'Freie Universität Berlin'
     year = 2010
 
@@ -41,20 +41,9 @@ title = "Kashif Rasul"
 +++
 You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+# Bio
 
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
+Kashif earned his B.Sc. with Honours from Monash University in Melbourne, Australia, followed by his Ph.D. in 2010 from the Free University of Berlin in the area of Differential Geometry and PDEs. He completed his thesis under the supervision of Prof. Klaus Ecker. Prior to finishing his Ph.D. he worked at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) on the Cactus Framework, an open-source, problem-solving environment designed for scientists and engineers. Kashif also worked as a software developer on Amira, a 3D scientific visualisation framework. Since this time, he has been the cofounder of two startups in the area of Geospatial Databases and Crowd-sourced Logistics.
+ 
+Kashif is passionate about high performance computing and has presented at various conferences, including Nvidia’s GTC and Strange Loop. He is also an avid contributor to open source projects.
 
