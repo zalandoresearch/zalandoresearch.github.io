@@ -39,9 +39,7 @@ title = "Kashif Rasul"
     role = "Principal Research Scientist"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Bio
 
 Kashif earned his B.Sc. with Honours from Monash University in Melbourne, Australia, followed by his Ph.D. in 2010 from the Free University of Berlin in the area of Differential Geometry and PDEs. He completed his thesis under the supervision of Prof. Klaus Ecker. Prior to finishing his Ph.D. he worked at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) on the Cactus Framework, an open-source, problem-solving environment designed for scientists and engineers. Kashif also worked as a software developer on Amira, a 3D scientific visualisation framework. Since this time, he has been the cofounder of two startups in the area of Geospatial Databases and Crowd-sourced Logistics.
  
