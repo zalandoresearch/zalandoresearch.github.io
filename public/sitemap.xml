@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://research.zalando.com/project/fashion_dna/fashion_dna/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/member/christian_b/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/member/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://research.zalando.com/post/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/post/post2/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/publication/learning/</loc>
@@ -17,28 +29,19 @@
     <loc>https://research.zalando.com/publication/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/project/deeplearning/</loc>
+    <loc>https://research.zalando.com/project/deeplearning/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/project/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/project/widelearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/member/kashif/</loc>
+    <loc>https://research.zalando.com/member/eric/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/member1/</loc>
+    <loc>https://research.zalando.com/member/kashif/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/member/member2/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/member/member3/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/post/notebook/</loc>

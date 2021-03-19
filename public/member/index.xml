@@ -6,25 +6,33 @@
     <description>Recent content in Members on Zalando Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Zalando SE, 2021</copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://research.zalando.com/member/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://research.zalando.com/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christian Bracher</title>
+      <link>https://research.zalando.com/member/christian_b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/member/christian_b/</guid>
+      <description>Christian Bracher is a Senior Applied Scientist focusing on Computer Vision problems at Zalando Research. He completed his diploma in Physics and his Ph.D. in Theoretical Physics at the Technical University of Munich. Christian went on to perform postdoctoral research in Quantum and Statistical Physics in Germany, Canada, and the U.S. where he was also a member of the Faculty of Physics at several colleges and universities in Pennsylvania, California, and New York.</description>
+    </item>
+    
+    <item>
+      <title>Eric Lindig</title>
+      <link>https://research.zalando.com/member/eric/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/member/eric/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Eric studied Public Administration at University Potsdam and joined Zalando in 2015. He takes responsibility for our Research Collaborations with academic partners, Network Partnerships (Project ELISE) &amp;amp; outreach to the academic community (Internship Programmes, Research Fellowships etc.).</description>
+    </item>
+    
     <item>
       <title>Kashif Rasul</title>
       <link>https://research.zalando.com/member/kashif/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://research.zalando.com/member/kashif/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Member 1</title>
-      <link>https://research.zalando.com/member/member1/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://research.zalando.com/member/member1/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+      <description>Kashif earned his B.Sc. with Honours from Monash University in Melbourne, Australia, followed by his Ph.D. in 2010 from the Free University of Berlin in the area of Differential Geometry and PDEs. He completed his thesis under the supervision of Prof. Klaus Ecker. Prior to finishing his Ph.D. he worked at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) on the Cactus Framework, an open-source, problem-solving environment designed for scientists and engineers.</description>
     </item>
     
     <item>
