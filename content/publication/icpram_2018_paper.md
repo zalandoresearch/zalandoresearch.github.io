@@ -14,9 +14,11 @@ title = "Street2Fashion2Shop: Enabling Visual Search in Fashion e-Commerce Using
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = "https://link.springer.com/chapter/10.1007/978-3-030-05499-1_1"
+url_project = ""
 url_slides = ""
 url_video = ""
+
+url_custom = [{name = "URL", url = "https://link.springer.com/chapter/10.1007/978-3-030-05499-1_1"}]
 
 [[authors]]
     name = "Julia Lasserre"
@@ -30,3 +32,5 @@ url_video = ""
     id = "roland_v"
     is_member = true
 +++
+
+Learn more about the [Fashion DNA research project](/project/fashion_dna/fashion_dna).
