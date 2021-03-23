@@ -18,8 +18,8 @@ title = "Improving Fashion Item Encoding and Retrieval"
 +++
 
 #### Team members:
-* [Christian Bracher](../../../member/christian_b)
-* [Sebastian Heinz](../../../member/sebastian_h)
+* [Christian Bracher](/member/christian_b)
+* [Sebastian Heinz](/member/sebastian_h)
 
 Unlike a brick-and-mortar department store, online retailers like Zalando must use digital representations of their offerings to entice customers. Traditionally, this takes the form of information stored in a catalog database, which collects categorical properties (tags), numerical descriptors (e.g., prices), and images of the items. Although this information is curated by in-house experts, assignments are often subjective (what makes a dress ‘dark red,’ or ‘leisure’?), and article imagery is highly stylized. It is also by no means complete. More importantly, there is no straightforward relation between these article attributes, and the properties individual customers actually care about:
 

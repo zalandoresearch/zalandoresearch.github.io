@@ -17,13 +17,16 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "christian_b"
+    name = "Christian Bracher"
+    is_member = true
+    id = "christian_b"
+[[authors]]
+    name = "Sebastian Heinz"
+    id = "sebastian_h"
     is_member = true
 [[authors]]
-    name = "sebastian_h"
-    is_member = true
-[[authors]]
-    name = "roland_v"
+    name = "Roland Vollgraf"
+    id = "roland_v"
     is_member = true
 +++
 
