@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 ### Data protection declaration and consent to use data by research.zalando.com
 
