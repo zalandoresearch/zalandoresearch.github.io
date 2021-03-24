@@ -5,7 +5,7 @@ id = "christian_b"
 interests = ["Deep Learning", "Computer Vision", "Visualization"]
 name = "Christian Bracher"
 portrait = "/portraits/portrait.cb.2018.jpg"
-short_bio = "Senior Applied Scientist"
+short_bio = "Computer Vision & Deep Learning"
 short_name = "Christian"
 title = "Christian Bracher"
 
