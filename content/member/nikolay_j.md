@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "nikolay"
+id = "nikolay_j"
 interests = ["Deep Learning", "Generative Modelling", "Image Processing", "Transformer Architectures"]
 name = "Nikolay Jetchev"
 portrait = "/portraits/Nikolay.jpg"
