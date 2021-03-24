@@ -20,9 +20,9 @@ title = "Eric Lindig"
     link = "//github.com/Eric10997"
 
 [[education]]
-    course = "Diplom Public Administration"
-    institution = 'Harvard University'
-    year = 2012
+    course = "Diplom in Public Administration"
+    institution = 'University of Potsdam'
+    year = 2011
 
 [[organizations]]
     name = "Zalando SE"
