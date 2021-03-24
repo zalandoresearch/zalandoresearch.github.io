@@ -5,9 +5,9 @@ The static Zalando Research website built via Hugo.
 
 ## Installation
 
- 1. Install [Hugo](https://gohugo.io/), e.g. on Linux either get the latest `deb` file from [latest release](t) and install it via 
+ 1. Install [Hugo](https://gohugo.io/), e.g. on Linux either get the latest `deb` file from [latest release](https://github.com/gohugoio/hugo/releases/latest) and install it via 
  ```
- dpkg -i hugo_0.82.0_Linux-ARM64.deb
+ dpkg -i hugo_extended_0.82.0_Linux-64bit.deb
  ``` 
  or install the default version: 
  ```
