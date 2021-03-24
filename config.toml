@@ -6,7 +6,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Zalando Research"
 math = true
-copyright = "&copy; Zalando SE, 2021"
+copyright = "[Imprint](/imprint)  ·  [Privacy Policy](/privacy)   ·  &copy; Zalando SE, 2021"
 
 [taxonomies]
 category = "categories"
