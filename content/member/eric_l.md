@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "eric_l"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
+interests = ["Research Partnerships", "Academic Outreach", "Networking"]
 name = "Eric Lindig"
 portrait = "/portraits/IMG_5714.JPG"
 short_bio = "Eric is our contact for research collaborations and academic relations."
@@ -12,31 +12,21 @@ title = "Eric Lindig"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "mailto:eric.lindig@zalando.de"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "//github.com/Eric10997"
 
 [[education]]
-    course = "MSc in Computer Science"
+    course = "Diplom Public Administration"
     institution = 'Harvard University'
-    year = 2004
+    year = 2012
 
 [[organizations]]
-    name = "Zalando"
-    role = "Full Professor"
+    name = "Zalando SE"
+    role = "Senior Business Development // Academic Relations"
 
 +++
 
