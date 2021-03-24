@@ -5,7 +5,7 @@ id = "sebastian_h"
 interests = ["Deep Learning", "Computer Vision", "Second-Order Optimization Methods"]
 name = "Sebastian Heinz"
 portrait = "/portraits/sheinz_part_2016.jpg"
-short_bio = "Senior Applied Scientist"
+short_bio = "Computer Vision & Deep Learning"
 short_name = ""
 title = "Sebastian Heinz"
 
