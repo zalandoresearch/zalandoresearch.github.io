@@ -28,12 +28,7 @@ title = "Nikolay Jetchev"
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/nikjetchev"
-    
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.bus.zalan.do/njetchev"
-    
+        
 [[education]]
     course = "Diplom in Mathematics"
     institution = 'TU Darmstadt'
