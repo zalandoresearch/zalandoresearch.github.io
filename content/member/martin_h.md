@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2021-03-19T19:41:32+01:00"
-id = "martin"
+id = "martin_h"
 interests = ["Deep Learning", "Recurrent Neural Networks", "Generative Adversarial Networks"]
 name = "Martin Heusel"
 portrait = "/portraits/martin.jpg"

@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "kashif"
+id = "kashif_r"
 interests = ["Deep Learning", "Time Series Forecasting", "Reinforcement Learning"]
 name = "Kashif Rasul"
 portrait = "/portraits/kashif.png"

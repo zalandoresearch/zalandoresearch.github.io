@@ -1,12 +1,12 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "eric"
+id = "eric_l"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "Eric Lindig"
 portrait = "/portraits/IMG_5714.JPG"
 short_bio = "Eric is our contact for research collaborations and academic relations."
-short_name = ""
+short_name = "Eric"
 title = "Eric Lindig"
 
 [[social]]
@@ -35,14 +35,10 @@ title = "Eric Lindig"
     year = 2004
 
 [[organizations]]
-    name = "Harvard University"
+    name = "Zalando"
     role = "Full Professor"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
-
-## Ait erili meruisse iactatis omnibus erat
 
 Eric studied Public Administration at University Potsdam and joined Zalando in 2015. He takes responsibility for our Research Collaborations with academic partners, Network Partnerships (Project ELISE) & outreach to the academic community (Internship Programmes, Research Fellowships etc.).
