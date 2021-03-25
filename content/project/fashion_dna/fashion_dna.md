@@ -4,8 +4,8 @@ description = ""
 external_link = ""
 image = ""
 project_id = "fdna"
-short_description = "An Introduction to Fashion DNA"
-title = "Improving Fashion Item Encoding and Retrieval"
+short_description = "Improving Fashion Item Encoding and Retrieval"
+title = "Fashion DNA"
 [[participants]]
     name = "Christian Bracher"
     is_member = true
@@ -15,11 +15,14 @@ title = "Improving Fashion Item Encoding and Retrieval"
     name = "Sebastian Heinz"
     is_member = true
     id = "sebastian_h"
+    
+[[participants]]
+    name = "Roland Vollgraf"
+    is_member = true
+    id = "roland_v"
 +++
 
-#### Team members:
-* [Christian Bracher](/member/christian_b)
-* [Sebastian Heinz](/member/sebastian_h)
+### Research Project by [Christian Bracher](/member/christian_b), [Sebastian Heinz](/member/sebastian_h) & [Roland Vollgraf](member/roland_v)
 
 Unlike a brick-and-mortar department store, online retailers like Zalando must use digital representations of their offerings to entice customers. Traditionally, this takes the form of information stored in a catalog database, which collects categorical properties (tags), numerical descriptors (e.g., prices), and images of the items. Although this information is curated by in-house experts, assignments are often subjective (what makes a dress ‘dark red,’ or ‘leisure’?), and article imagery is highly stylized. It is also by no means complete. More importantly, there is no straightforward relation between these article attributes, and the properties individual customers actually care about:
 
