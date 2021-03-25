@@ -25,7 +25,7 @@ title = "Eric Lindig"
     year = 2011
 
 [[organizations]]
-    name = "Zalando SE"
+    name = "Zalando"
     role = "Senior Business Development // Academic Relations"
 
 +++
