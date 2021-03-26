@@ -45,4 +45,6 @@ title = "Nikolay Jetchev"
 
 +++
 
-Nikolay Jetchev studied Mathematics and Computer Science at the Technical University of Darmstadt, receiving his diploma in 2007. He completed his Ph.D. in Machine Learning and Robotics at the Free University of Berlin in 2012, teaching as a postdoctoral fellow once his studies were complete. He is currently part of the Computer Vision team at Zalando Research. Current research focus: generative modelling of high resolution fashion images, metric for measuring perceptual image quality.
+Nikolay Jetchev studied Mathematics and Computer Science at the Technical University of Darmstadt, receiving his diploma in 2007. He completed his Ph.D. in Machine Learning and Robotics at the Free University of Berlin in 2012, teaching as a postdoctoral fellow once his studies were complete. He is currently part of the Computer Vision team at Zalando Research. Current research focus: generative modelling of high resolution fashion images, metrics for measuring perceptual image quality.
+
+Nikolay is passionate about high quality image generation, and is always striving to improve the ML state-of-the-art in quality and size of the generated images. He has given numerous talks at international conferences, and local Berlin AI meetups on such topics.
