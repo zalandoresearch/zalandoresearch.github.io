@@ -25,7 +25,7 @@ The static Zalando Research website built via Hugo.
     git clone git@github.bus.zalan.do:zalandoresearch/research.zalando.com.git
  ```
 
- 1. Run Hugo server from the root of the folder:
+ 3. Run Hugo server from the root of the folder:
 
  ```
     hugo server --watch
