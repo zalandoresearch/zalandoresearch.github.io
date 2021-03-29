@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme" content="hugo-academic-group" />
+
+     
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://research.zalando.com//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="https://research.zalando.com//css/bootstrap.min.css" />
+    <script src="https://research.zalando.com//js/bootstrap.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/default.min.css"
+    />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css"
+    />
+
+    
+    <script src="https://research.zalando.com//js/highlight.pack.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="https://research.zalando.com//css/academicons.min.css" />
+    <link
+      rel="stylesheet"
+      href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono"
+    />
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/hugo-academic-group.css"
+    />
+
+    
+
+    <link
+      rel="shortcut icon"
+      href="https://research.zalando.com//img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="canonical" href="https://research.zalando.com/post/tempflow/" />
+
+    <title>Forecasting time-series and their interactions | Zalando Research</title>
+  </head>
+
+  <body>
+    <div class="home-anchor" id="home"></div>
+  </body>
+</html>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://research.zalando.com/">
+                        <img src="https://research.zalando.com/img/zalando-research-logo.svg" alt="University logo"></img>
+                    </a>
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#posts">Blog</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+<div class="container">
+
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+        
+
+        <h1 itemprop="name">Forecasting time-series and their interactions</h1>
+
+        <div class="row">
+            <div class="col-xs-6 article-published-at">
+                <i>Published on:</i> <p>Mar 27, 2020</p>
+            </div>
+            <div class="col-xs-6 article-authors">
+                <i>Authors:</i>
+                
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <a href="https://research.zalando.com/member/kashif_r/">Kashif Rasul</a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+</span>
+            
+        
+</div>
+
+            </div>
+        </div>
+
+        <div class="article-style" itemprop="articleBody">
+            <p>Time-series forecasting is fundamental to optimal decision making in many scientific and business problems. In the context of time-series forecasting, autoregressive methods are well-suited for their capacity to extrapolate into the future.  While classical autoregressive methods model individual time-series independently, recent <a href="https://arxiv.org/abs/1704.04110">advances</a> in deep learning methodologies have enabled the use of a single model across multiple time-series. Even though shared parameters in such models allow for detected patterns to be transferred across individual time-series, they fall short when it comes to capturing (potentially higher-order) statistical interdependencies between the time-series. For example, imagine the sales of two competing items (e.g., from different brands such as Apple vs. Samsung): clearly the sales of the items are dependent since customers either choose one or the other, but rarely both. It is also important to output distributions, instead of just point forecasts, when doing time series forecasting, to assess how much predictions can vary, which is important for downstream tasks like capacity planning etc. Without probabilistic forecasting the importance of the forecast in times of low noise (small variance around a mean value) versus a scenario with high noise cannot be distinguished.</p>
+<p>To account for both noise in forecasting and interactions among time-series, we recently published a probabilistic forecasting method for multivariate time-series. Our method is scalable to very high dimensions and we show in our paper that it outperforms competing methods on a number of well-established publicly available benchmarks.</p>
+<h2 id="proposed-method">Proposed method</h2>
+<p>Deep learning methods typically model sequential data like time series via recurrent neural networks (RNN). RNNs are networks with loops in them, which enable their neurons to represent the history of the observations. Hence, at each time point, the network gets input data ($ \mathbf{x}_t$) and the previous state ($ \mathbf{h}_t$)  of the RNN, and outputs a state for the next timestep ($ \mathbf{h}_{t+1} $). This is illustrated in the following figure:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-1.png" alt="RNN"></p>
+<p>Point forecasting methods take the hidden state and output a single point estimated value of the next time point. In time-series regression, the model is often trained by minimizing the mean squared error (MSE) of this output with respect to the ground truth value:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-2.png" alt=""></p>
+<p>When the model is used for prediction, we first run the RNN over the historical data available to warm it up. This state of the RNN is then continued into prediction times by feeding the outputs of the model at each timestep as input to the model for the next time step, in addition to the state:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-3.png" alt=""></p>
+<h3 id="how-can-this-method-be-generalized-to-probabilistic-forecasts">How can this method be generalized to probabilistic forecasts?</h3>
+<p>Instead of outputting a single value, like in point forecasting, parameters of a distribution must then be predicted: for example the mean and the variance of a Gaussian distribution. In the neural setting which we consider, this means a network is conditioned on the state coming from a RNN up to this time point, and this network then outputs distribution parameters. This model is then trained to minimize the negative log likelihood of the ground truth data with respect to the distribution parameters:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-4.png" alt=""></p>
+<p>In comparison to the deterministic point forecast at prediction time, we now have to sample a value from the output distribution for the next time step. This sample is then fed into the RNN to sample the next and so on. We can repeat this procedure as many times as we want, to get lots of sampled forecasts for the whole prediction interval. These samples can then be used to calculate statistical estimates, e.g. we can calculate any quantiles we are interested in:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-5.png" alt=""></p>
+<h3 id="how-does-this-process-differ-when-we-want-to-do-multivariate-forecasting">How does this process differ when we want to do multivariate forecasting?</h3>
+<p>Actually nothing much changes, at each time point as above the RNN now gets a multivariate vector, however, now the distribution has to account for the fact that we output a vector of values. We now need to learn the parameters of a multivariate distribution like a multivariate Gaussian.</p>
+<p>Does this sufficiently capture multivariate dependencies? Well not really. For one, the number of parameters that make up the covariance matrix of a multivariate normal are quadratic in the size of the multivariate vector. And secondly, the calculation of the likelihood of a multivariate Gaussian distribution with respect to some ground truth data is cubic in the number of time series - hence, it doesn’t scale gracefully. One way to deal with this is to approximating the full multivariate Gaussian distribution by a low-rank approximation.</p>
+<p>Furthermore, we are making a potentially strong assumption here: we select the output distribution for the kind of data we have to forecast (in the example we discussed we assumed a Gaussian distribution) before we even have seen the data. Is there a more data-driven way to determine this distribution? What would we need for such a method? For training, we would need the likelihood of the ground truth with respect to the distribution. And for the inference time, we would need to be able to sample from this distribution.</p>
+<h3 id="normalizing-flows">Normalizing Flows</h3>
+<p>Normalizing flows are a model class that allow for efficient evaluation of the likelihood and efficient sampling. They are composition of invertible functions that transform samples from a complicated distribution to samples of a simple one like for example an isotropic Gaussian:</p>
+<p><img src="https://research.zalando.com/img/blogs/tempflow/fig-6.png" alt=""></p>
+<p>Normalizing flows are in fact trainable neural network stacks which transform their inputs step by step (via the composition or stacking) in a computationally efficient manner. They not only let us calculate the likelihood of some data efficiently with respect to the simpler distribution (in fact that is how we train these flows) but due to their invertible nature we can generate a sample from the simple distribution and end up with a sample from the complex one!</p>
+<p>Use of normalizing flows means that we do not need to assume that the underlying multivariate data follows a standard and simple distribution. Moreover, the computational efficiency of normalizing flow models such as <a href="https://arxiv.org/abs/1605.08803">Real NVP</a> or <a href="https://arxiv.org/abs/1705.07057">MAF</a> makes our approach readily scalable to a large number of data dimensions.</p>
+<p>We combined Flow models with our RNN model, where instead of a multivariate distribution we plug in a normalizing flow module which is conditioned on the state of this RNN at each time point.  As demonstrated by the empirical results in our <a href="https://research.zalando.com/publication/tempflow_2020">paper</a>, combining normalizing flows with temporal conditioning coming from an RNN, or an <a href="https://arxiv.org/abs/1706.03762">attention mechanism</a>, gives us a very powerful multivariate time series model. To the best of our knowledge, we achieve state-of-the-art results on a variety of real-world benchmarks, outperforming a number of recent competing <a href="http://papers.nips.cc/paper/8907-high-dimensional-multivariate-forecasting-with-low-rank-gaussian-copula-processes">approaches</a>.</p>
+<h2 id="read-more">Read more</h2>
+<p>If you are interested in further details, please read the paper where we provide technical details of our approach together with an overview of relevant literature including competing approaches. If you want to try out this method on your own data then please head over to the <a href="https://github.com/zalandoresearch/pytorch-ts">Github repository</a>  where we have open sourced not only this model but a framework to develop probabilistic time series models in PyTorch.</p>
+<p>Paper: <a href="https://research.zalando.com/publication/tempflow_2020">Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows</a></p>
+<p>Work done by: Kashif Rasul, Abdul-Saboor Sheikh, Ingmar Schuster, Urs Bergmann and Roland Vollgraf as well as the PyTorchTS contributors.</p>
+
+        </div>
+
+
+
+    </article>
+
+    <nav>
+    <ul class="pager">
+        
+
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            <a href="https://research.zalando.com/imprint">Imprint</a>  ·  <a href="https://research.zalando.com/privacy">Privacy Policy</a>   ·  © Zalando SE, 2021 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script>
+        MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$','$$'], ['\\[', '\\]']],
+            processEscapes: true,
+            processEnvironments: true
+          },
+          options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+        };
+        </script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</body>
+</html>
+

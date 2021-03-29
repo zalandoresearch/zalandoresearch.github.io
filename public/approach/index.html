@@ -174,7 +174,7 @@ tibi ille nubes; muneris si silva, erat.</p>
     <div class="container">
         <p class="powered-by">
 
-            © Zalando SE, 2021 &middot; 
+            <a href="https://research.zalando.com/imprint">Imprint</a>  ·  <a href="https://research.zalando.com/privacy">Privacy Policy</a>   ·  © Zalando SE, 2021 &middot; 
 
             Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
 
@@ -193,7 +193,13 @@ tibi ille nubes; muneris si silva, erat.</p>
 <script>
         MathJax = {
           tex: {
-            inlineMath: [['$', '$'], ['\\(', '\\)']]
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$','$$'], ['\\[', '\\]']],
+            processEscapes: true,
+            processEnvironments: true
+          },
+          options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
           }
         };
         </script>

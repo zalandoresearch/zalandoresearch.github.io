@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme" content="hugo-academic-group" />
+
+     
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://research.zalando.com//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="https://research.zalando.com//css/bootstrap.min.css" />
+    <script src="https://research.zalando.com//js/bootstrap.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/default.min.css"
+    />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css"
+    />
+
+    
+    <script src="https://research.zalando.com//js/highlight.pack.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="https://research.zalando.com//css/academicons.min.css" />
+    <link
+      rel="stylesheet"
+      href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono"
+    />
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/hugo-academic-group.css"
+    />
+
+    
+
+    <link
+      rel="shortcut icon"
+      href="https://research.zalando.com//img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="canonical" href="https://research.zalando.com/project/flair_nlp/flair_nlp/" />
+
+    <title>Flair | Zalando Research</title>
+  </head>
+
+  <body>
+    <div class="home-anchor" id="home"></div>
+  </body>
+</html>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://research.zalando.com/">
+                        <img src="https://research.zalando.com/img/zalando-research-logo.svg" alt="University logo"></img>
+                    </a>
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#posts">Blog</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">Flair</h1>
+        
+        
+
+        
+
+        <div class="article-style" itemprop="articleBody">
+            <h2 id="state-of-the-art-natural-language-processing-nlp">State-of-the-Art Natural Language Processing (NLP)</h2>
+<h3 id="research-project-by-alan-akbik-ex-member">Research Project by Alan Akbik (ex-member)</h3>
+<p>Can we teach machines to read and understand human language? And in the future, can we teach them to perform language AI tasks with little training data, across over 20 different human languages? At Zalando Research, we’re investigating answers to these questions.</p>
+<p>We are researching a novel approach that leverages neural language modeling to learn powerful, contextualized representations of human language from large corpora. These representations contain a wealth of syntactic and semantic information that can be used to directly improve downstream natural language processing (NLP) tasks.</p>
+<p>In particular, <a href="https://www.google.com/url?q=http://alanakbik.github.io/papers/coling2018.pdf&amp;sa=D&amp;ust=1536756403667000">our recent paper</a> proposes a sequence labeling architecture built on top of neural language modeling that sets new state-of-the-art scores for a range of classical NLP tasks, such as named entity recognition (NER) and part-of-speech (PoS) tagging.</p>
+<p><img src="img/image2.png" alt="image2"></p>
+<p>Example of named entity recognition in the domain of fashion. Our approach identifies and highlights fashion-related entities such as colors, looks, designs and brands in text.</p>
+<p>Illustration of our approach. A sentence (bottom) is input as a character sequence into a pre-trained bidirectional character language model (LM, yellow in Figure. From this LM, we retrieve for each word a contextual embedding by extracting the first and last character cell states. This word embedding is then passed into a vanilla BiLSTM-CRF sequence labeler (blue in Figure), achieving robust state-of-the-art results on downstream tasks (NER in this example).</p>
+<p><img src="img/image1.png" alt="image1"></p>
+<p>We make our state-of-the-art NLP framework – called <a href="https://github.com/flairNLP/flair">Flair</a> – openly available. The framework is already in use by multiple research groups that have used it to reach new state-of-the-art scores for a range of NLP tasks across different languages.</p>
+<p>We are actively developing <a href="https://github.com/flairNLP/flair">Flair</a> to encompass a growing range of NLP task and languages – and keep pushing the state-of-the-art in NLP!</p>
+<h4 id="references">References:</h4>
+<p>[1] <a href="http://alanakbik.github.io/papers/coling2018.pdf">Contextual String Embeddings for Sequence Labeling.</a>. (Akbik et al., 2018)</p>
+<p>[2] <a href="https://github.com/flairNLP/flair">The Flair NLP framework</a></p>
+
+        </div>
+    
+        
+     </article>
+    
+   <nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://research.zalando.com/project/personalized_size_recommendation/personalized_size_recommendation/">
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous project:</span>
+                Personalized Size Recommendation
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://research.zalando.com/project/feidegger_dataset/feidegger_dataset/">
+                <span class="darknav">&nbsp;Next project:</span>
+                Feidegger Dataset
+                <span aria-hidden="true" class="darknav">&rarr;</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            <a href="https://research.zalando.com/imprint">Imprint</a>  ·  <a href="https://research.zalando.com/privacy">Privacy Policy</a>   ·  © Zalando SE, 2021 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script>
+        MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$','$$'], ['\\[', '\\]']],
+            processEscapes: true,
+            processEnvironments: true
+          },
+          options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+        };
+        </script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</body>
+</html>
+

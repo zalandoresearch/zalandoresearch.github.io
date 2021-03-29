@@ -2,53 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://research.zalando.com/member/martin_h/</loc>
+    <lastmod>2021-03-19T19:41:32+01:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/member/</loc>
+    <lastmod>2021-03-19T19:41:32+01:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/</loc>
+    <lastmod>2021-03-19T19:41:32+01:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/timegrad_2021/</loc>
+    <lastmod>2021-02-02T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/</loc>
+    <lastmod>2021-02-02T16:37:31+02:00</lastmod>
+  </url><url>
     <loc>https://research.zalando.com/project/fashion_dna/fashion_dna/</loc>
     <lastmod>2021-01-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/project/</loc>
     <lastmod>2021-01-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/</loc>
-    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+    <loc>https://research.zalando.com/project/adversarial_learning/adversarial_learning/</loc>
+    <lastmod>2020-10-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/robust_reinforcement_learning/robust_reinforcement_learning/</loc>
+    <lastmod>2020-10-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/categories/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/deep-learning/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/categories/deep-learning/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/post/tempflow/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/multivariate/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/categories/open-source/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/paper/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/categories/paper/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/post/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/pytorch/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/tags/time-series/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/categories/time-series/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/tempflow_2020/</loc>
+    <lastmod>2020-02-14T16:37:31+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/member/christian_b/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/</loc>
+    <loc>https://research.zalando.com/member/gokhan_y/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/post/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
+    <loc>https://research.zalando.com/member/roland_v/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/post/post2/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
+    <loc>https://research.zalando.com/publication/transform_the_set_2019/</loc>
+    <lastmod>2019-12-14T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/publication/learning/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
+    <loc>https://research.zalando.com/publication/generating_models_2019/</loc>
+    <lastmod>2019-11-02T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/publication/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
+    <loc>https://research.zalando.com/publication/setflow_2019/</loc>
+    <lastmod>2019-09-06T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/swarm/swarm/</loc>
+    <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/icpram_2018_paper/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/fashion_renderer/fashion_renderer/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/copy_anew_2018/</loc>
+    <lastmod>2018-12-08T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/bandit_2018/</loc>
+    <lastmod>2018-12-07T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/determinantal_point_processes/determinantal_point_processes/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/feidegger_dataset/feidegger_dataset/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/flair_nlp/flair_nlp/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/personalized_size_recommendation/personalized_size_recommendation/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/shop_the_look_with_deep_learning/shop_the_look_with_deep_learning/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/disentangling_2018/</loc>
+    <lastmod>2018-08-20T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/generative_design/generative_design/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/probabilistic_timeseries_modelling/probabilistic_timeseries_modelling/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/hypernetworks_2017/</loc>
+    <lastmod>2017-12-04T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/fmnist_2017/</loc>
+    <lastmod>2017-08-25T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/lstm_2017_paper/</loc>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/fashion_mnist/fashion_mnist/</loc>
+    <lastmod>2017-08-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/forecasting_the_customers_preference/forecasting_the_customers_preference/</loc>
+    <lastmod>2016-12-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/project/generative_models_research/generative_models_research/</loc>
+    <lastmod>2016-12-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/kdd_2016_paper/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/project/deeplearning/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/eric/</loc>
+    <loc>https://research.zalando.com/member/eric_l/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/kashif/</loc>
+    <loc>https://research.zalando.com/member/kashif_r/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/member2/</loc>
+    <loc>https://research.zalando.com/member/calvin_s/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/member3/</loc>
+    <loc>https://research.zalando.com/member/ingmar_s/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/post/notebook/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/post/post1/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
+    <loc>https://research.zalando.com/member/nikolay_j/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/about/</loc>
     <priority>0</priority>
@@ -56,7 +173,13 @@
     <loc>https://research.zalando.com/approach/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://research.zalando.com/imprint/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://research.zalando.com/mission/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://research.zalando.com/privacy/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://research.zalando.com/research/</loc>
@@ -64,9 +187,7 @@
   </url><url>
     <loc>https://research.zalando.com/vacancy/vacancy1/</loc>
   </url><url>
-    <loc>https://research.zalando.com/categories/</loc>
-  </url><url>
-    <loc>https://research.zalando.com/tags/</loc>
+    <loc>https://research.zalando.com/member/sebastian_h/</loc>
   </url><url>
     <loc>https://research.zalando.com/vacancy/</loc>
   </url>

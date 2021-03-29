@@ -5,6 +5,52 @@
     <link>https://research.zalando.com/tags/</link>
     <description>Recent content in Tags on Zalando Research</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Zalando SE, 2021</copyright><atom:link href="https://research.zalando.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[Imprint](/imprint)  ·  [Privacy Policy](/privacy)   ·  &amp;copy; Zalando SE, 2021</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://research.zalando.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deep learning</title>
+      <link>https://research.zalando.com/tags/deep-learning/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multivariate</title>
+      <link>https://research.zalando.com/tags/multivariate/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/tags/multivariate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paper</title>
+      <link>https://research.zalando.com/tags/paper/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>https://research.zalando.com/tags/pytorch/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time series</title>
+      <link>https://research.zalando.com/tags/time-series/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

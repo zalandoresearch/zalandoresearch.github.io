@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme" content="hugo-academic-group" />
+
+     
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://research.zalando.com//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="https://research.zalando.com//css/bootstrap.min.css" />
+    <script src="https://research.zalando.com//js/bootstrap.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/default.min.css"
+    />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css"
+    />
+
+    
+    <script src="https://research.zalando.com//js/highlight.pack.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="https://research.zalando.com//css/academicons.min.css" />
+    <link
+      rel="stylesheet"
+      href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono"
+    />
+    <link
+      rel="stylesheet"
+      href="https://research.zalando.com//css/hugo-academic-group.css"
+    />
+
+    
+
+    <link
+      rel="shortcut icon"
+      href="https://research.zalando.com//img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="canonical" href="https://research.zalando.com/project/adversarial_learning/adversarial_learning/" />
+
+    <title>Adversarial Learning | Zalando Research</title>
+  </head>
+
+  <body>
+    <div class="home-anchor" id="home"></div>
+  </body>
+</html>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://research.zalando.com/">
+                        <img src="https://research.zalando.com/img/zalando-research-logo.svg" alt="University logo"></img>
+                    </a>
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#posts">Blog</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://research.zalando.com/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">Adversarial Learning</h1>
+        
+        
+
+        
+
+        <div class="article-style" itemprop="articleBody">
+            <h3 id="research-project-bychristian-brachermemberchristian_b-martin-heuselmembermartin_hsebastian-heinzmembersebastian_hroland-vollgrafmemberroland_v">Research Project by <a href="https://research.zalando.com/member/christian_b">Christian Bracher</a>, <a href="https://research.zalando.com/member/martin_h">Martin Heusel</a>, <a href="https://research.zalando.com/member/sebastian_h">Sebastian Heinz</a> &amp; <a href="https://research.zalando.com/member/roland_v">Roland Vollgraf</a></h3>
+<p><!-- raw HTML omitted -->Deep learning computer vision models, based on our huge archive of fashion images, already empower various customer-facing AI products at Zalando including recommendations, search, and “complete the look”, a product that generates outfits. We currently face two obstacles in applying our models even further: (1) Models that are trained on Zalando’s highly curated shop imagery don&rsquo;t generalize well to other assortments or customer produced content; and (2) Model performance is tainted by spurious correlations with confounding but irrelevant sources of information inside the Zalando image catalog. We aim to overcome both obstacles with the help of methods from adversarial learning.<!-- raw HTML omitted --></p>
+<p><img src="img/image2.png" alt="recommended articles"></p>
+<p>Article images from different sources</p>
+<h3 id="implementation-challenges">Implementation Challenges</h3>
+<p><!-- raw HTML omitted -->Adversarial learning tasks can be formulated with the help of two-player games. Here the first player’s goal is to predict a certain attribute (like the image source), while the second player’s goal is to sabotage the first player. Mathematically, this corresponds to solving saddle point optimization problems. As adversarial learning following this strategy is notoriously unstable (see the figure below for the particular challenge of “orbiting”), we plan to improve its training behaviour by refining optimization algorithms exploring 2<!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted -->nd<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->order methods as well as insights from image GANs. We also plan to approach the problem by finding adversary objectives (like MMD, meta learning) that avoid the need of solving saddle point optimization problems, without unduly affecting classification ability.<!-- raw HTML omitted --></p>
+<p><img src="img/image3.png" alt="“Orbiting” of weight traces (sinusoidal graphs) implies lack of convergence.">
+“Orbiting” of weight traces (sinusoidal graphs) implies lack of convergence.</p>
+<h3 id="learning-to-forget-example">Learning-to-Forget Example</h3>
+<p><!-- raw HTML omitted -->We have an article embedding which encodes, in particular, the type of fabric, season, targeted gender and age, the color as well as the brand of a fashion item:<!-- raw HTML omitted --> <a href="../../fashion_dna/fashion_dna"><!-- raw HTML omitted -->Fashion DNA<!-- raw HTML omitted --></a><!-- raw HTML omitted -->. Via adversarial learning, we trained a model on top of Fashion DNA with the task to forget all article properties except for color and pattern. Examples of neighborhoods with respect to the resulting article embedding are shown below.<!-- raw HTML omitted -->
+<img src="img/image1.jpg" alt="LSTM-based network">
+<img src="img/image4.jpg" alt="recommended articles"></p>
+
+        </div>
+    
+        
+     </article>
+    
+   <nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://research.zalando.com/project/robust_reinforcement_learning/robust_reinforcement_learning/">
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous project:</span>
+                Robust Reinforcement Learning
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://research.zalando.com/project/fashion_dna/fashion_dna/">
+                <span class="darknav">&nbsp;Next project:</span>
+                Fashion DNA
+                <span aria-hidden="true" class="darknav">&rarr;</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            <a href="https://research.zalando.com/imprint">Imprint</a>  ·  <a href="https://research.zalando.com/privacy">Privacy Policy</a>   ·  © Zalando SE, 2021 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script>
+        MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$','$$'], ['\\[', '\\]']],
+            processEscapes: true,
+            processEnvironments: true
+          },
+          options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+        };
+        </script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</body>
+</html>
+

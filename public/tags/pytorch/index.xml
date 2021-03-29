@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pytorch on Zalando Research</title>
+    <link>https://research.zalando.com/tags/pytorch/</link>
+    <description>Recent content in pytorch on Zalando Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>[Imprint](/imprint)  ·  [Privacy Policy](/privacy)   ·  &amp;copy; Zalando SE, 2021</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://research.zalando.com/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecasting time-series and their interactions</title>
+      <link>https://research.zalando.com/post/tempflow/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/post/tempflow/</guid>
+      <description>Time-series forecasting is fundamental to optimal decision making in many scientific and business problems. In the context of time-series forecasting, autoregressive methods are well-suited for their capacity to extrapolate into the future. While classical autoregressive methods model individual time-series independently, recent advances in deep learning methodologies have enabled the use of a single model across multiple time-series. Even though shared parameters in such models allow for detected patterns to be transferred across individual time-series, they fall short when it comes to capturing (potentially higher-order) statistical interdependencies between the time-series.</description>
+    </item>
+    
+  </channel>
+</rss>
