@@ -2,8 +2,8 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "ingmar_s"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
+interests = ["Deep Learning", "Kernel methods", "Bayesian modeling", "Time Series Forecasting", "Reinforcement Learning"]
+name = "Ingmar Schuster"
 portrait = "/portraits/ingmar.png"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
@@ -12,48 +12,21 @@ title = "Member 1"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "mailto:ingmar.schuster@zalando.de"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "//github.com/ingmarschuster"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "PhD in Computer Science"
+    institution = 'Universität Leipzig'
+    year = 2016
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "Zalando"
+    role = "Senior Research Scientist"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
-
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
-
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
+Ingmar Schuster studied computer science and linguistics at the University of Tübingen. He turned to statistics and machine learning during his PhD on natural language semantics at Universität Leipzig. Ingmars research topics are Monte Carlo and variational approaches to integral approximation, Bayesian models and RKHS methods. Previously, he was a postdoc with Tim Sullivan and Christof Schütte at FU Berlin and before that with Christian Robert at Université Paris-Dauphine.
