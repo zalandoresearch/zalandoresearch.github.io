@@ -29,4 +29,4 @@ title = "Member 1"
     role = "Senior Research Scientist"
 
 +++
-Ingmar Schuster studied computer science and linguistics at the University of Tübingen. He turned to statistics and machine learning during his PhD on natural language semantics at Universität Leipzig. Ingmars research topics are Monte Carlo and variational approaches to integral approximation, Bayesian models and RKHS methods. Previously, he was a postdoc with Tim Sullivan and Christof Schütte at FU Berlin and before that with Christian Robert at Université Paris-Dauphine.
+Ingmar Schuster studied computer science and linguistics at the University of Tübingen. He turned to statistics and machine learning during his PhD on natural language semantics at Universität Leipzig. Ingmars research topics are Deep Learning methods of sequence embedding and time series forecasting, Monte Carlo and variational approaches to integral approximation, Bayesian models and RKHS methods. Previously, he was a postdoc with Tim Sullivan and Christof Schütte at FU Berlin and before that with Christian Robert at Université Paris-Dauphine.
