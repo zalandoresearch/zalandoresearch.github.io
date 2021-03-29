@@ -5,9 +5,9 @@ id = "ingmar_s"
 interests = ["Deep Learning", "Kernel methods", "Bayesian modeling", "Time Series Forecasting", "Reinforcement Learning"]
 name = "Ingmar Schuster"
 portrait = "/portraits/ingmar.png"
-short_bio = "My short bio. I am Member Member."
-short_name = ""
-title = "Member 1"
+short_bio = ""
+short_name = "Ingmar"
+title = "Ingmar Schuster"
 
 [[social]]
     icon = "envelope"
