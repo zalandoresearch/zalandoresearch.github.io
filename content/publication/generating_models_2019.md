@@ -1,6 +1,6 @@
 +++
 abstract = "Visualizing an outfit is an essential part of shopping for clothes. Due to the combinatorial aspect of combining fashion articles, the available images are limited to a pre-determined set of outfits. In this paper, we broaden these visualizations by generating high-resolution images of fashion models wearing a custom outfit under an input body pose. We show that our approach can not only transfer the style and the pose of one generated outfit to another, but also create realistic images of human bodies and garments."
-abstract_short = "Permutation invariant normalizing flows."
+abstract_short = ""
 date = "2019-11-02T16:37:31+02:00"
 image = ""
 image_preview = ""
