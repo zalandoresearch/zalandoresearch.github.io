@@ -11,10 +11,11 @@ Telefax: +49 (0)30 2759 46 93
 E-Mail: legalnotice@zalando.de  
 
 ### Management Board: 
-Robert Gentz, David Schneider, Rubin Ritter, James Freeman II, David Schröder
+Robert Gentz, David Schneider (both co-Chairs of the Board), Rubin Ritter, James Freeman II, David Schröder, Dr. Astrid Arndt
 
 ### Chairperson of the Supervisory Board: 
 Cristina Stenbeck
+
 
  
 ---
