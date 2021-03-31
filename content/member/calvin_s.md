@@ -6,7 +6,7 @@ interests = ["Deep Learning", "Reinforcement Learning", "Generative Modeling", "
 name = "Calvin Seward"
 portrait = "/portraits/calvin.jpg"
 short_bio = "Research Scientist"
-short_name = ""
+short_name = "Calvin"
 title = "Calvin Seward"
 
 [[social]]
@@ -33,6 +33,10 @@ title = "Calvin Seward"
     course = "Diplom in Mathematics"
     institution = 'Humboldt-Universität zu Berlin'
     year = 2012
+
+[[organizations]]
+    name = "Zalando"
+    role = "Research Scientist"
 
 +++
 Calvin Seward wants to know is that the best we can do? We do search,
