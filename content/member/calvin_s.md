@@ -22,7 +22,7 @@ title = "Calvin Seward"
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/user=4x2wF-EAAAAJ"
+    link = "https://scholar.google.com/citations?user=4x2wF-EAAAAJ&hl=en"
 
 [[social]]
     icon = "github"

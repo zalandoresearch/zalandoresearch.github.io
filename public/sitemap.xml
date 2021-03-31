@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://research.zalando.com/member/martin_h/</loc>
-    <lastmod>2021-03-19T19:41:32+01:00</lastmod>
+    <loc>https://research.zalando.com/member/calvin_s/</loc>
+    <lastmod>2021-03-29T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/member/</loc>
-    <lastmod>2021-03-19T19:41:32+01:00</lastmod>
+    <lastmod>2021-03-29T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/</loc>
+    <lastmod>2021-03-29T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/member/martin_h/</loc>
     <lastmod>2021-03-19T19:41:32+01:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/publication/timegrad_2021/</loc>
@@ -23,11 +26,23 @@
     <loc>https://research.zalando.com/project/</loc>
     <lastmod>2021-01-01T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>https://research.zalando.com/project/sample_efficient_reinforcement_learning/sample_efficient_reinforcement_learning/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://research.zalando.com/project/adversarial_learning/adversarial_learning/</loc>
     <lastmod>2020-10-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/project/robust_reinforcement_learning/robust_reinforcement_learning/</loc>
     <lastmod>2020-10-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/rtcme_2020/</loc>
+    <lastmod>2020-09-14T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/mcis_2020/</loc>
+    <lastmod>2020-09-14T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/kcdo_2020/</loc>
+    <lastmod>2020-04-14T16:37:31+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/categories/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
@@ -67,6 +82,9 @@
   </url><url>
     <loc>https://research.zalando.com/categories/time-series/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/publication/svd_2020/</loc>
+    <lastmod>2020-03-14T16:37:31+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/publication/tempflow_2020/</loc>
     <lastmod>2020-02-14T16:37:31+02:00</lastmod>
@@ -155,13 +173,10 @@
     <loc>https://research.zalando.com/member/eric_l/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://research.zalando.com/member/kashif_r/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://research.zalando.com/member/calvin_s/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
     <loc>https://research.zalando.com/member/ingmar_s/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://research.zalando.com/member/kashif_r/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://research.zalando.com/member/nikolay_j/</loc>

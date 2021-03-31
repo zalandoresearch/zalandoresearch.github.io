@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Sample Efficient Reinforcement Learning</title>
+      <link>https://research.zalando.com/project/sample_efficient_reinforcement_learning/sample_efficient_reinforcement_learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/project/sample_efficient_reinforcement_learning/sample_efficient_reinforcement_learning/</guid>
+      <description>Research Project by Calvin Seward, Kashif Rasul, Ingmar Schuster &amp;amp; Roland Vollgraf Reinforcement learning has seen many successes in the last years, enabling computers to beat human masters at such difficult tasks as Go and Atari games. In addition, reinforcement learning is showing great promise in creating exciting consumer facing technologies such as self driving cars, while also driving behind the scenes efficiency gains with self learning recommendation and pricing systems.</description>
+    </item>
+    
+    <item>
       <title>Adversarial Learning</title>
       <link>https://research.zalando.com/project/adversarial_learning/adversarial_learning/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
@@ -31,8 +40,7 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
       
       <guid>https://research.zalando.com/project/robust_reinforcement_learning/robust_reinforcement_learning/</guid>
-      <description>Research Project by Calvin Seward Caption: Camel in the desert
-When I think of robustness, I think of camels*. Camels thrive in unpredictable, varying environments. Be it hot or cold, sunny or windy, dry or rainy camels are prepared with their hump full of fatty deposits, their thick fur and distinctive nose and eyelashes. It would be nice if reinforcement learning methods were like camels, robust and adaptable.
+      <description>Research Project by Calvin Seward When I think of robustness, I think of camels1. Camels thrive in unpredictable, varying environments. Be it hot or cold, sunny or windy, dry or rainy camels are prepared with their hump full of fatty deposits, their thick fur and distinctive nose and eyelashes. It would be nice if reinforcement learning methods were like camels, robust and adaptable.
 Yet many reinforcements learning methods are quite fragile, and the resulting policies akin to the Devils Hole pupfish, a cute yet sensitive fish whose only habitat is an isolated, water-filled cavern in Nevada.</description>
     </item>
     

@@ -6,7 +6,17 @@
     <description>Recent content in Members on Zalando Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>[Imprint](/imprint)  ·  [Privacy Policy](/privacy)   ·  &amp;copy; Zalando SE, 2021</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 19:41:32 +0100</lastBuildDate><atom:link href="https://research.zalando.com/member/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://research.zalando.com/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calvin Seward</title>
+      <link>https://research.zalando.com/member/calvin_s/</link>
+      <pubDate>Mon, 29 Mar 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/member/calvin_s/</guid>
+      <description>Calvin Seward wants to know is that the best we can do? We do search, but could we do it better. We do recommendations, but could they be more engaging? It’s a hard question to answer, since we can’t know for sure what the customer would have done if she’d been shown different search / recommendation / pricing results.
+Therefore, he’s applying his Mathematics background and strong publication record in image generation to a three prong-strategy: First, he’s collaborating with Ingmar Schuster and Kashif Rasul to improve our probabilistic time series forecasting methods.</description>
+    </item>
+    
     <item>
       <title>Martin Heusel</title>
       <link>https://research.zalando.com/member/martin_h/</link>
@@ -53,31 +63,21 @@
     </item>
     
     <item>
+      <title>Ingmar Schuster</title>
+      <link>https://research.zalando.com/member/ingmar_s/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/member/ingmar_s/</guid>
+      <description>Ingmar Schuster studied computer science and linguistics at the University of Tübingen. He turned to statistics and machine learning during his PhD on natural language semantics at Universität Leipzig. Ingmars research topics are Deep Learning methods of sequence embedding and time series forecasting, Monte Carlo and variational approaches to integral approximation, Bayesian models and RKHS methods. Previously, he was a postdoc with Tim Sullivan and Christof Schütte at FU Berlin and before that with Christian Robert at Université Paris-Dauphine.</description>
+    </item>
+    
+    <item>
       <title>Kashif Rasul</title>
       <link>https://research.zalando.com/member/kashif_r/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://research.zalando.com/member/kashif_r/</guid>
       <description>Kashif earned his B.Sc. with Honours from Monash University in Melbourne, Australia, followed by his Ph.D. in 2010 from the Free University of Berlin in the area of Differential Geometry and PDEs. He completed his thesis under the supervision of Prof. Klaus Ecker. Prior to finishing his Ph.D. he worked at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) on the Cactus Framework, an open-source, problem-solving environment designed for scientists and engineers.</description>
-    </item>
-    
-    <item>
-      <title>Member 1</title>
-      <link>https://research.zalando.com/member/calvin_s/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://research.zalando.com/member/calvin_s/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Member 1</title>
-      <link>https://research.zalando.com/member/ingmar_s/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://research.zalando.com/member/ingmar_s/</guid>
-      <description>Ingmar Schuster studied computer science and linguistics at the University of Tübingen. He turned to statistics and machine learning during his PhD on natural language semantics at Universität Leipzig. Ingmars research topics are Deep Learning methods of sequence embedding and time series forecasting, Monte Carlo and variational approaches to integral approximation, Bayesian models and RKHS methods. Previously, he was a postdoc with Tim Sullivan and Christof Schütte at FU Berlin and before that with Christian Robert at Université Paris-Dauphine.</description>
     </item>
     
     <item>

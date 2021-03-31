@@ -17,6 +17,42 @@
     </item>
     
     <item>
+      <title>A Rigorous Theory of Conditional Mean Embeddings</title>
+      <link>https://research.zalando.com/publication/rtcme_2020/</link>
+      <pubDate>Mon, 14 Sep 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/publication/rtcme_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Chain Importance Sampling – a highly efficient estimator for MCMC</title>
+      <link>https://research.zalando.com/publication/mcis_2020/</link>
+      <pubDate>Mon, 14 Sep 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/publication/mcis_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Conditional Density Operators</title>
+      <link>https://research.zalando.com/publication/kcdo_2020/</link>
+      <pubDate>Tue, 14 Apr 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/publication/kcdo_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition of Operators on Reproducing Kernel Hilbert Spaces</title>
+      <link>https://research.zalando.com/publication/svd_2020/</link>
+      <pubDate>Sat, 14 Mar 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://research.zalando.com/publication/svd_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows</title>
       <link>https://research.zalando.com/publication/tempflow_2020/</link>
       <pubDate>Fri, 14 Feb 2020 16:37:31 +0200</pubDate>
