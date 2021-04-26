@@ -28,17 +28,17 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Zalando Research is an endeavor to place Zalando at the forefront of cutting-edge research and to complement our already strong foothold on technology. We want to carve out an academic starting point for Zalando Technology. We aim to give our great researchers an outlet where they can be better organized and aligned. Finally, also want to have a greater impact in the tech research community, especially in the fields of data science, machine learning, and artificial intelligence."
+    text =  "**Zalando Research is an endeavor to place Zalando at the forefront of cutting-edge research and to complement our already strong foothold on technology. We want to carve out an academic starting point for Zalando Technology. We aim to give our great researchers an outlet where they can be better organized and aligned. Finally, also want to have a greater impact in the tech research community, especially in the fields of data science, machine learning, and artificial intelligence.**"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
-    text = "We believe research should not be enclosed in the ivory towers of abstract and theoretical hypotheses. Our mission is to conduct research that is derived from real customer problems and challenges we face in our everyday work. Putting the customer at the forefront of our thinking is paramount for Zalando Research."
+    text = "**We believe research should not be enclosed in the ivory towers of abstract and theoretical hypotheses. Our mission is to conduct research that is derived from real customer problems and challenges we face in our everyday work. Putting the customer at the forefront of our thinking is paramount for Zalando Research.**"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "We enable our research scientists to proactively exchange knowledge with others in the research communities. On top of speaking at conferences and publishing papers, we empower research collaborations with the global industry and academic partners. Our goal with Zalando Research is to have an official mandate for our talented scientists to work from, which also insists on collaborative projects within the greater academic community."
+    text = "**We enable our research scientists to proactively exchange knowledge with others in the research communities. On top of speaking at conferences and publishing papers, we empower research collaborations with the global industry and academic partners. Our goal with Zalando Research is to have an official mandate for our talented scientists to work from, which also insists on collaborative projects within the greater academic community.**"
     weight = 3
 
   # Selected Publications section.
