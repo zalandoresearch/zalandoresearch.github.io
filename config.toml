@@ -29,22 +29,16 @@ tag = "tags"
   [[params.slogan_columns]]
     title = "About"
     text =  "Zalando Research is an endeavor to place Zalando at the forefront of cutting-edge research and to complement our already strong foothold on technology. We want to carve out an academic starting point for Zalando Technology. We aim to give our great researchers an outlet where they can be better organized and aligned. Finally, also want to have a greater impact in the tech research community, especially in the fields of data science, machine learning, and artificial intelligence."
-    link = "/about"
-    link_text = "Meet the team"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
     text = "We believe research should not be enclosed in the ivory towers of abstract and theoretical hypotheses. Our mission is to conduct research that is derived from real customer problems and challenges we face in our everyday work. Putting the customer at the forefront of our thinking is paramount for Zalando Research."
-    link = "/mission"
-    link_text = "Read more"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
     text = "We enable our research scientists to proactively exchange knowledge with others in the research communities. On top of speaking at conferences and publishing papers, we empower research collaborations with the global industry and academic partners. Our goal with Zalando Research is to have an official mandate for our talented scientists to work from, which also insists on collaborative projects within the greater academic community."
-    link = "/approach"
-    link_text = "Read more"
     weight = 3
 
   # Selected Publications section.
@@ -81,7 +75,7 @@ tag = "tags"
   
   # Vacancies section
   # Section will only be displayed if there are valid vacancies in `content/vacancy`
-  [params.vacancies]
+  [params.open_projects]
     title = "Vacancies"
     subtitle = ""
     count = 3
@@ -103,8 +97,8 @@ tag = "tags"
       weight = 1
 
   [[menu.main]]
-      name = "Research"
-      url = "/research"
+      name = "Members"
+      url = "/#members"
       weight = 2
 
   [[menu.main]]
@@ -118,17 +112,11 @@ tag = "tags"
       weight = 4
 
   [[menu.main]]
-      name = "Members"
-      url = "/#members"
-      weight = 5
-
-  [[menu.main]]
       name = "Blog"
       url = "/#posts"
-      weight = 6
-
+      weight = 5
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 7
+      weight = 6
