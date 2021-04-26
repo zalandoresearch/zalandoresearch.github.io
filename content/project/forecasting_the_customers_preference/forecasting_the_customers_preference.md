@@ -4,7 +4,7 @@ description = ""
 external_link = ""
 image = ""
 project_id = "forecasting_the_customers_preference"
-short_description = "IForecasting the customer’s preference"
+short_description = "Forecasting the customer’s preference"
 title = "Forecasting the customer’s preference"
 [[participants]]
     name = "Christian Bracher"

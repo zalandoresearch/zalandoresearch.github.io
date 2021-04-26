@@ -4,7 +4,7 @@ description = ""
 external_link = ""
 image = ""
 project_id = "determinantal_point_processes"
-short_description = "IDeterminantal Point Processes"
+short_description = "Determinantal Point Processes"
 title = "Determinantal Point Processes"
 
 +++
