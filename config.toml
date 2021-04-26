@@ -115,8 +115,13 @@ tag = "tags"
       name = "Blog"
       url = "/#posts"
       weight = 5
+  
+  [[menu.main]]
+      name = "Vacancies"
+      url = "/#open-projects"
+      weight = 6
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 6
+      weight = 7
