@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-projects on Zalando Research</title>
+    <link>https://research.zalando.com/open-projects/</link>
+    <description>Recent content in Open-projects on Zalando Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>[Imprint](/imprint)  ·  [Privacy Policy](/privacy)   ·  &amp;copy; Zalando SE, 2021</copyright><atom:link href="https://research.zalando.com/open-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://research.zalando.com/open-projects/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://research.zalando.com/open-projects/vacancy1/</guid>
+      <description>Applied Scientist - Machine Learning &amp;amp; DL As an Applied Scientist in the Berlin based Size and Fit Org., you will develop algorithms designed to provide Zalando fashion retail customers with the information they need to make choices that reflect their unique size and fit preferences.
+WHERE YOUR EXPERTISE IS NEEDED  Bring in your experience in developing and deploying Machine Learning and Deep Learning algorithmic based solutions and prototypes to help customers make sense out of confusing sizing systems Propose, build and lead initiatives - feature ownership from development to deployment Build upon your existing engineering and scientific skills and continue developing them  WHAT WE’RE LOOKING FOR  Ph.</description>
+    </item>
+    
+  </channel>
+</rss>

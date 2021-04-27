@@ -194,16 +194,16 @@
     <loc>https://research.zalando.com/mission/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://research.zalando.com/open-projects/vacancy1/</loc>
+  </url><url>
     <loc>https://research.zalando.com/privacy/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://research.zalando.com/research/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://research.zalando.com/vacancy/vacancy1/</loc>
+    <loc>https://research.zalando.com/open-projects/</loc>
   </url><url>
     <loc>https://research.zalando.com/member/sebastian_h/</loc>
-  </url><url>
-    <loc>https://research.zalando.com/vacancy/</loc>
   </url>
 </urlset>
