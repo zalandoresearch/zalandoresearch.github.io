@@ -11,7 +11,8 @@ Telefax: +49 (0)30 2759 46 93
 E-Mail: legalnotice@zalando.de  
 
 ### Management Board: 
-Robert Gentz, David Schneider (both co-Chairs of the Board), Rubin Ritter, James Freeman II, David Schröder, Dr. Astrid Arndt
+Robert Gentz & David Schneider (both co-chairs of the board), Dr. Astrid Arndt, James Freeman II, David Schröder
+
 
 ### Chairperson of the Supervisory Board: 
 Cristina Stenbeck
@@ -26,7 +27,9 @@ Value Added Tax-ID: DE 260543043
 
 Tax Number: 37/132/45004
 
-Responsible for contents of Zalando SE: Robert Gentz
+WEEE-Reg.-Nr. DE /WEEG-Reg.-No GER: 72754189
+
+Responsible for editorial content: Robert Gentz
 
 ### Legal Note
 [Link to the platform of the European Commission](http://ec.europa.eu/consumers/odr/) according to Regulation on consumer ODR. We are neither obligated nor willing to participate in a dispute settlement procedure at a consumer arbitration board.
