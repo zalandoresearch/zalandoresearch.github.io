@@ -26,6 +26,9 @@ url_video = ""
     name = "Mateusz Koren"
     is_member = false
 [[authors]]
+    name = "Johannes Stephan"
+    is_member = false
+[[authors]]
     name = "Tofigh Naghibi"
     is_member = true
 +++
