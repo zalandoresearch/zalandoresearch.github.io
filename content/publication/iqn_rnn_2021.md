@@ -17,7 +17,7 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Adele Gouttes"
+    name = "Adèle Gouttes"
     is_member = false
 [[authors]]
     id = "kashif_r"
