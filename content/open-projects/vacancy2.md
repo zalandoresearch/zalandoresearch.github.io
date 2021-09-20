@@ -1,5 +1,5 @@
 +++
-description = "(Senior) Research Scientist - Builder Platform and AI"
+description = "(Senior) Research Scientist - Zalando Research"
 external_link = "https://jobs.zalando.com/en/jobs/2523598/"
 vacancy_id = "2523598"
 +++
