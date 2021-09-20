@@ -4,7 +4,7 @@ external_link = "https://jobs.zalando.com/en/jobs/2523598/"
 vacancy_id = "2523598"
 +++
 
-# (Senior) Research Scientist - Builder Platform and AI
+# (Senior) Research Scientist - Zalando Research
 
 For a strategic long term research project we are hiring Machine Learning Research Scientists to drive forward fundamental industrial research in the area of Large Scale Probabilistic Simulation of Business Processes. In the project we want to leverage our vast amount of transactional data plus state of the art ML approaches to create tomorrow's technologies for AI enabled development and testing of steering applications.
 
