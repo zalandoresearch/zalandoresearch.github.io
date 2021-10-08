@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "tofigh_n"
-interests = ["Deep Learning", "Kernel methods", "Bayesian modeling", "Time Series Forecasting", "Rein"]
+interests = ["Machine Learning", "AI"]
 name = "Tofigh Naghibi"
 portrait = "/portraits/tofigh_photo.jpeg"
 short_bio = ""
