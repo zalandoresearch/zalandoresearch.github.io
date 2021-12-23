@@ -20,7 +20,7 @@ title = "Generative Models Research"
 
 +++
 
-### Research Project by Urs Bergmann (ex member),  [Nikolay Jetchev](/member/nikolayj) & [Roland Vollgraf](/member/roland_v)
+### Research Project by Urs Bergmann (ex member),  [Nikolay Jetchev](/member/nikolayj) & [Roland Vollgraf](/alumni/roland_v)
 
 <span style="font-weight: 400;">The overarching goal of this project is to advance the field of generative modeling, i.e. to build methods that learn complex probability distributions. In particular, we focus on generative adversarial networks (GANs), a relatively new technique that has shown impressive results in purely data-driven modeling of images.</span>
 

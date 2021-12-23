@@ -27,7 +27,7 @@ title = "Sample Efficient Reinforcement Learning"
     id = "roland_v"
 +++
 
-### Research Project by [Calvin Seward](/member/calvin_s), [Kashif Rasul](/member/kashif_r), [Ingmar Schuster](/member/ingmar_s) & [Roland Vollgraf](/member/roland_v)
+### Research Project by [Calvin Seward](/member/calvin_s), [Kashif Rasul](/alumni/kashif_r), [Ingmar Schuster](/alumni/ingmar_s) & [Roland Vollgraf](/alumni/roland_v)
 ![](/project/sample_efficient_reinforcement_learning/img/robot.png)
 
 
