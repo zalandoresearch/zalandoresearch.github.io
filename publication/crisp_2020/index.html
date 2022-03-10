@@ -18,8 +18,8 @@
 <link rel=stylesheet href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
 <link rel=stylesheet href=https://research.zalando.com//css/hugo-academic-group.css>
 <link rel="shortcut icon" href=https://research.zalando.com//img/favicon.ico type=image/x-icon>
-<link rel=canonical href=https://research.zalando.com/publication/disentangling_2018/>
-<title>Disentangling Multiple Conditional Inputs in GANs | Zalando Research</title></head><body>
+<link rel=canonical href=https://research.zalando.com/publication/crisp_2020/>
+<title>CRISP: A Probabilistic Model for Individual-Level COVID-19 Infection Risk Estimation Based on Contact Data | Zalando Research</title></head><body>
 <div class=home-anchor id=home></div></body></html><nav class="navbar navbar-default navbar-fixed-top" id=navbar-main>
 <div class=container>
 <div class=navbar-header>
@@ -40,38 +40,40 @@
 <div class=row>
 <div class=col-sm-12>
 <div class=pub-title>
-<h1 itemprop=name>Disentangling Multiple Conditional Inputs in GANs</h1></div></div></div><div class=row>
+<h1 itemprop=name>CRISP: A Probabilistic Model for Individual-Level COVID-19 Infection Risk Estimation Based on Contact Data</h1></div></div></div><div class=row>
 <div class=col-sm-12>
 <div class=pub-authors itemprop=author>
 <div itemprop=author>
 <span class=author-name>
-<a href=https://research.zalando.com/alumni/gokhan_y/>
-Gökhan Yildirim
+<a href=https://herbrich.me>
+Ralf Herbrich
 </a>
 </span>,
 <span class=author-name>
-<a href=https://research.zalando.com/member/calvin_s/>Calvin Seward</a>
+Rajeev Rastogi
 </span>,
 <span class=author-name>
-Urs Bergmann
+<a href=https://research.zalando.com/alumni/roland_v/>
+Roland Vollgraf
+</a>
 </span>
 </div></div></div></div><div class=row>
 <div class=col-sm-12>
 <h3>Abstract</h3></div></div><div class=row>
 <div class=col-sm-12>
-<p class=pub-abstract itemprop=text>In this paper, we propose a method that disentangles the effects of multiple input conditions in Generative Adversarial Networks (GANs). In particular, we demonstrate our method in controlling color, texture, and shape of a generated garment image for computer-aided fashion design. To disentangle the effect of input attributes, we customize conditional GANs with consistency loss functions. In our experiments, we tune one input at a time and show that we can guide our network to generate novel and realistic images of clothing articles. In addition, we present a fashion design process that estimates the input attributes of an existing garment and modifies them using our generator.</p></div></div><div class=row>
+<p class=pub-abstract itemprop=text>We present CRISP (COVID-19 Risk Score Prediction), a probabilistic graphical model for COVID-19 infection spread through a population based on the SEIR model where we assume access to (1) mutual contacts between pairs of individuals across time across various channels (e.g., Bluetooth contact traces), as well as (2) test outcomes at given times for infection, exposure and immunity tests. Our micro-level model keeps track of the infection state for each individual at every point in time, ranging from susceptible, exposed, infectious to recovered. We develop a Monte Carlo EM algorithm to infer contact-channel specific infection transmission probabilities. Our algorithm uses Gibbs sampling to draw samples of the latent infection status of each individual over the entire time period of analysis, given the latent infection status of all contacts and test outcome data. Experimental results with simulated data demonstrate our CRISP model can be parametrized by the reproduction factor R0 and exhibits population-level infectiousness and recovery time series similar to those of the classical SEIR model. However, due to the individual contact data, this model allows fine grained control and inference for a wide range of COVID-19 mitigation and suppression policy measures. Moreover, the algorithm is able to support efficient testing in a test-trace-isolate approach to contain COVID-19 infection spread. To the best of our knowledge, this is the first model with efficient inference for COVID-19 infection spread based on individual-level contact data; most epidemic models are macro-level models that reason over entire populations. The implementation of CRISP is available in Python and C++ at <a href=https://github.com/zalandoresearch/CRISP>this https URL.</a></p></div></div><div class=row>
 <div class=col-sm-12>
 <div class=row>
-<div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div><div class="col-xs-12 col-sm-9">KDD 2018 Conference <a href=https://kddfashion2018.mybluemix.net/>AI for Fashion Workshop</a></div></div></div></div><div class="visible-xs space-below"></div><div class=row>
+<div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div><div class="col-xs-12 col-sm-9">arXiv.org preprint</div></div></div></div><div class="visible-xs space-below"></div><div class=row>
 <div class=col-sm-12>
 <div class=row>
 <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div><div class="col-xs-12 col-sm-9" itemprop=datePublished>
-August, 2018
+June, 2020
 </div></div></div></div><div class="visible-xs space-below"></div><div class=row style=padding-top:10px>
 <div class=col-sm-12>
 <div class=row>
 <div class="col-xs-12 col-sm-3 pub-row-heading" style=line-height:34px>Links</div><div class="col-xs-12 col-sm-9">
-<a class="btn btn-primary btn-outline" href=https://arxiv.org/pdf/1806.07819.pdf>PDF</a>
+<a class="btn btn-primary btn-outline" href=https://arxiv.org/pdf/2006.04942>PDF</a>
 </div></div></div></div><div class="visible-xs space-below"></div><div class=space-below></div><div class=article-style></div></div></div><footer class=site-footer>
 <div class=container>
 <p class=powered-by>

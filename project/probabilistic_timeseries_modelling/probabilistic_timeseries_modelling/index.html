@@ -19,13 +19,8 @@
 <link rel=stylesheet href=https://research.zalando.com//css/hugo-academic-group.css>
 <link rel="shortcut icon" href=https://research.zalando.com//img/favicon.ico type=image/x-icon>
 <link rel=canonical href=https://research.zalando.com/project/probabilistic_timeseries_modelling/probabilistic_timeseries_modelling/>
-<title>Probabilistic Time Series Modelling | Zalando Research</title>
-</head>
-<body>
-<div class=home-anchor id=home></div>
-</body>
-</html>
-<nav class="navbar navbar-default navbar-fixed-top" id=navbar-main>
+<title>Probabilistic Time Series Modelling | Zalando Research</title></head><body>
+<div class=home-anchor id=home></div></body></html><nav class="navbar navbar-default navbar-fixed-top" id=navbar-main>
 <div class=container>
 <div class=navbar-header>
 <button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target=.navbar-collapse aria-expanded=false>
@@ -38,70 +33,32 @@
 <a class=logo href=https://research.zalando.com/>
 <img src=https://research.zalando.com/img/zalando-research-logo.svg alt="University logo"></img>
 </a>
-</div>
-</div>
-<div class="collapse navbar-collapse" id=#navbar-collapse-1>
+</div></div><div class="collapse navbar-collapse" id=#navbar-collapse-1>
 <ul class="nav navbar-nav navbar-right">
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#top>Home</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#members>Members</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#publications>Publications</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#projects>Projects</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#posts>Blog</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#open-projects>Vacancies</a></li>
-<li class=nav-item><a data-scroll href=https://research.zalando.com/#contact>Contact</a></li>
-</ul>
-</div>
-</div>
-</nav>
-<div class=container>
+<li class=nav-item><a data-scroll href=https://research.zalando.com/#top>Home</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#members>Members</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#publications>Publications</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#projects>Projects</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#posts>Blog</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#open-projects>Vacancies</a></li><li class=nav-item><a data-scroll href=https://research.zalando.com/#contact>Contact</a></li></ul></div></div></nav><div class=container>
 <article class="article article-project" itemscope itemtype=http://schema.org/Article>
-<h1 itemprop=name>Probabilistic Time Series Modelling</h1>
-<div class=article-style itemprop=articleBody>
-<h2 id=research-project-by-ingmar-schustermemberingmar_s-kashif-rasulmemberkashif_r-urs-bergmann-calvin-sewardmembercalvin_s--roland-vollgrafmemberroland_v>Research Project by <a href=https://research.zalando.com/member/ingmar_s>Ingmar Schuster</a>, <a href=https://research.zalando.com/member/kashif_r>Kashif Rasul</a>, Urs Bergmann, <a href=https://research.zalando.com/member/calvin_s>Calvin Seward</a>, & <a href=https://research.zalando.com/member/roland_v>Roland Vollgraf</a></h2>
-<p>This project aims at probabilistic time series models, which is a general problem setting across many modern internet companies. In other words, we want to be capable of getting a predictive distribution for the value of a time series at future time points from our model. Such solutions are widely applicable to a number of Zalando use cases for example demand and trend forecasting or detecting anomalous behaviour. Probabilistic models also help our stakeholders to better assess the risk associated with any forecast and provide a way to quantify the uncertainty associated especially when predicting far into the future. We currently follow two main approaches, one based on a recurrent neural network, the other on reproducing kernel hilbert space (RKHS) operators.</p>
-<p>In the deep learning approach, a long short-term memory (LSTM) architecture is trained to, given past measurements, output parameters for a family of distributions such that observed data at the current time has a high likelihood [2,3]. For future time points, several samples from the predictive distribution are used in order to propagate uncertainty. We use embeddings [1] to encode categorical covariates and develop techniques to model interactions or correlations between different time series.</p>
-<p><img src=img/image15.png alt=image1> <img src=img/image23.png alt=image2></p>
-<p>The RKHS based approach on the other hand uses recently developed RKHS operator ideas in order to get an estimate of the distribution for the current time, given past measurements. Different from a classical regression task we seek to provide a full estimate over the distribution of the output variable given the input. Nonparametric closed form solutions exist for the operator of interest, which however do not allow to place certain constraints on the obtained solutions. For this reason and to keep model complexity under control, we employ stochastic gradient optimization algorithms. The resulting method captures uncertainty like Gaussian Processes, but unlike these is neither bound to Gaussian distributions for the output nor to real domains or univariate outputs.</p>
-<p>Also, it is not bound to describe time series models, but can be used for any distribution regression task.</p>
-<p><img src=img/image3.png alt=image3></p>
-<p>References</p>
-<p>[1] Guo, C. & Berkhahn, F. (2016). Entity Embeddings of Categorical Variables <a href="https://www.google.com/url?q=https://arxiv.org/abs/1604.06737&sa=D&ust=1536845522320000">https://arxiv.org/abs/1604.06737</a></p>
-<p>[2] Flunkert, V., Salinas, D. & Gasthaus, J. (2017). DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks. <a href="https://www.google.com/url?q=https://arxiv.org/abs/1704.04110&sa=D&ust=1536845522321000">https://arxiv.org/abs/1704.04110</a></p>
-<p>[3] Zhu, L. & Laptev, N. (2017)Deep and Confident Prediction for Time Series at Uber <a href="https://www.google.com/url?q=https://arxiv.org/abs/1709.01907&sa=D&ust=1536845522322000">https://arxiv.org/abs/1709.01907</a></p>
-<p>[4] Klus, S., Schuster, I., & Muandet, K. (2017). Eigendecompositions of transfer operators in reproducing kernel Hilbert spaces. Submitted to Journal of Machine Learning Research. <a href="https://www.google.com/url?q=https://arxiv.org/abs/1712.01572&sa=D&ust=1536845522322000">https://arxiv.org/abs/1712.01572</a></p>
-<p>[5] Song, L., Huang, J., Smola, A., & Fukumizu, K. (2009). Hilbert space embeddings of conditional distributions with applications to dynamical systems. In Proceedings of the 26th Annual International Conference on Machine Learning.</p>
-</div>
-</article>
-<nav>
+<h1 itemprop=name>Probabilistic Time Series Modelling</h1><div class=article-style itemprop=articleBody>
+<h2 id=research-project-by-ingmar-schusteralumniingmar_s-kashif-rasulalumnikashif_r-urs-bergmann-calvin-sewardmembercalvin_s--roland-vollgrafalumniroland_v>Research Project by <a href=https://research.zalando.com/alumni/ingmar_s>Ingmar Schuster</a>, <a href=https://research.zalando.com/alumni/kashif_r>Kashif Rasul</a>, Urs Bergmann, <a href=https://research.zalando.com/member/calvin_s>Calvin Seward</a>, & <a href=https://research.zalando.com/alumni/roland_v>Roland Vollgraf</a></h2><p>This project aims at probabilistic time series models, which is a general problem setting across many modern internet companies. In other words, we want to be capable of getting a predictive distribution for the value of a time series at future time points from our model. Such solutions are widely applicable to a number of Zalando use cases for example demand and trend forecasting or detecting anomalous behaviour. Probabilistic models also help our stakeholders to better assess the risk associated with any forecast and provide a way to quantify the uncertainty associated especially when predicting far into the future. We currently follow two main approaches, one based on a recurrent neural network, the other on reproducing kernel hilbert space (RKHS) operators.</p><p>In the deep learning approach, a long short-term memory (LSTM) architecture is trained to, given past measurements, output parameters for a family of distributions such that observed data at the current time has a high likelihood [2,3]. For future time points, several samples from the predictive distribution are used in order to propagate uncertainty. We use embeddings [1] to encode categorical covariates and develop techniques to model interactions or correlations between different time series.</p><p><img src=img/image15.png alt=image1> <img src=img/image23.png alt=image2></p><p>The RKHS based approach on the other hand uses recently developed RKHS operator ideas in order to get an estimate of the distribution for the current time, given past measurements. Different from a classical regression task we seek to provide a full estimate over the distribution of the output variable given the input. Nonparametric closed form solutions exist for the operator of interest, which however do not allow to place certain constraints on the obtained solutions. For this reason and to keep model complexity under control, we employ stochastic gradient optimization algorithms. The resulting method captures uncertainty like Gaussian Processes, but unlike these is neither bound to Gaussian distributions for the output nor to real domains or univariate outputs.</p><p>Also, it is not bound to describe time series models, but can be used for any distribution regression task.</p><p><img src=img/image3.png alt=image3></p><p>References</p><p>[1] Guo, C. & Berkhahn, F. (2016). Entity Embeddings of Categorical Variables <a href="https://www.google.com/url?q=https://arxiv.org/abs/1604.06737&sa=D&ust=1536845522320000">https://arxiv.org/abs/1604.06737</a></p><p>[2] Flunkert, V., Salinas, D. & Gasthaus, J. (2017). DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks. <a href="https://www.google.com/url?q=https://arxiv.org/abs/1704.04110&sa=D&ust=1536845522321000">https://arxiv.org/abs/1704.04110</a></p><p>[3] Zhu, L. & Laptev, N. (2017)Deep and Confident Prediction for Time Series at Uber <a href="https://www.google.com/url?q=https://arxiv.org/abs/1709.01907&sa=D&ust=1536845522322000">https://arxiv.org/abs/1709.01907</a></p><p>[4] Klus, S., Schuster, I., & Muandet, K. (2017). Eigendecompositions of transfer operators in reproducing kernel Hilbert spaces. Submitted to Journal of Machine Learning Research. <a href="https://www.google.com/url?q=https://arxiv.org/abs/1712.01572&sa=D&ust=1536845522322000">https://arxiv.org/abs/1712.01572</a></p><p>[5] Song, L., Huang, J., Smola, A., & Fukumizu, K. (2009). Hilbert space embeddings of conditional distributions with applications to dynamical systems. In Proceedings of the 26th Annual International Conference on Machine Learning.</p></div></article><nav>
 <ul class=pager>
 <li class=previous>
 <a href=https://research.zalando.com/project/fashion_mnist/fashion_mnist/>
 <span aria-hidden=true class=darknav>&larr;&nbsp;Previous project:</span>
 Fashion MNIST
 </a>
-</li>
-<li class=next>
+</li><li class=next>
 <a href=https://research.zalando.com/project/generative_design/generative_design/>
 <span class=darknav>&nbsp;Next project:</span>
 Generative Fashion Design
 <span aria-hidden=true class=darknav>&rarr;</span>
 </a>
-</li>
-</ul>
-</nav>
-</div>
-<footer class=site-footer>
+</li></ul></nav></div><footer class=site-footer>
 <div class=container>
 <p class=powered-by>
 <a href=https://research.zalando.com/imprint>Imprint</a> · <a href=https://en.zalando.de/zalando-privacy-policy/>Privacy Policy</a> · © Zalando SE, 2021 &#183;
 Partially powered by the <a href=https://github.com/gcushen/hugo-academic target=_blank>Academic theme</a> for <a href=http://gohugo.io target=_blank>Hugo</a>.
 <span class=pull-right><a href=#home id=back_to_top><span class=button_icon><i class="fa fa-chevron-up fa-2x" aria-hidden=true></i></span></a></span>
-</p>
-</div>
-</footer>
-<script src=https://research.zalando.com//js/TweenMax.min.js></script>
+</p></div></footer><script src=https://research.zalando.com//js/TweenMax.min.js></script>
 <script src=https://research.zalando.com//js/ScrollToPlugin.min.js></script>
-<script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}}</script>
+<script>MathJax={tex:{inlineMath:[["$","$"],["\\(","\\)"]],displayMath:[["$$","$$"],["\\[","\\]"]],processEscapes:!0,processEnvironments:!0},options:{skipHtmlTags:["script","noscript","style","textarea","pre"]}}</script>
 <script id=MathJax-script async src=https://research.zalando.com//js/tex-mml-chtml.js></script>
-</body>
-</html>
+</body></html>
