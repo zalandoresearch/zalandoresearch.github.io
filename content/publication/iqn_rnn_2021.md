@@ -29,7 +29,7 @@ url_video = ""
     name = "Johannes Stephan"
     is_member = false
 [[authors]]
-    name = "Tofigh Naghibi"
+    id = "tofigh_n"
     is_member = true
 +++
 

@@ -8,6 +8,7 @@ portrait = "/portraits/kashif.png"
 short_bio = "Principal Research Scientist"
 short_name = "Kashif"
 title = "Kashif Rasul"
+external_link = "/alumni/kashif_r"
 
 [[social]]
     icon = "envelope"
@@ -36,7 +37,7 @@ title = "Kashif Rasul"
 
 [[organizations]]
     name = "Zalando"
-    role = "Principal Research Scientist"
+    role = "ex Principal Research Scientist"
 
 +++
 

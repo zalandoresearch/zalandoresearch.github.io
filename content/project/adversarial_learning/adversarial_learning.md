@@ -30,7 +30,7 @@ title = "Adversarial Learning"
 +++
 
 
-### Research Project by [Christian Bracher](/member/christian_b), [Martin Heusel](/member/martin_h), [Sebastian Heinz](/member/sebastian_h) & [Roland Vollgraf](/member/roland_v)
+### Research Project by [Christian Bracher](/member/christian_b), [Martin Heusel](/member/martin_h), [Sebastian Heinz](/member/sebastian_h) & [Roland Vollgraf](/alumni/roland_v)
 
 <span style="font-weight: 400;">Deep learning computer vision models, based on our huge archive of fashion images, already empower various customer-facing AI products at Zalando including recommendations, search, and “complete the look”, a product that generates outfits. We currently face two obstacles in applying our models even further: (1) Models that are trained on Zalando’s highly curated shop imagery don't generalize well to other assortments or customer produced content; and (2) Model performance is tainted by spurious correlations with confounding but irrelevant sources of information inside the Zalando image catalog. We aim to overcome both obstacles with the help of methods from adversarial learning.</span> 
 

@@ -39,12 +39,12 @@ title = "Generating High-Resolution Fashion Model Images Wearing Custom Outfits"
 +++
 
 #### Team members:
-* [Gökhan Yildirim](/member/gokhan_y)
+* [Gökhan Yildirim](/alumni/gokhan_y)
 * [Nikolay Jetchev](/member/nikolay_j)
 * [Christian Bracher](/member/christian_b)
 * [Sebastian Heinz](/member/sebastian_h)
 * [Martin Heusel](/member/martin_h)
-* [Roland Vollgraf](/member/roland_v)
+* [Roland Vollgraf](/alumni/roland_v)
 
 At Zalando, we provide high-quality photographs of fashion models wearing the articles in our online selection. These photographs help our customers visualise the garments they browse and enhance their shopping experience.
 

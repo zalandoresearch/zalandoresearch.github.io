@@ -14,7 +14,7 @@ title = "Generative Fashion Design"
 +++
 
 #### Team members:
-* [Gökhan Yildirim](/member/gokhan_y)
+* [Gökhan Yildirim](/alumni/gokhan_y)
 
 What is the fastest way to visually communicate a new design? Searching for similar-looking clothes? Drawing a sketch? Or creating a 3D representation on a computer program? Although all of them are viable solutions, they are quite time consuming.
 

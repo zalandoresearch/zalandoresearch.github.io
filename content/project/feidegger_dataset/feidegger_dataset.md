@@ -13,7 +13,7 @@ title = "Feidegger Dataset"
 
 +++
 
-### Research Project by Leonidas Lefakis (ex-member), Alan Akbik (ex-member) & [Roland Vollgraf](/member/roland_v)
+### Research Project by Leonidas Lefakis (ex-member), Alan Akbik (ex-member) & [Roland Vollgraf](/alumni/roland_v)
 
 <span class="c3">The FEIDEGGER (fashion images and descriptions in German) dataset is a new multi-modal corpus that focuses specifically on the domain of fashion items and their visual descriptions in German. The dataset was created as part of ongoing research at Zalando into text-image multi-modality in the area of fashion.</span>
 

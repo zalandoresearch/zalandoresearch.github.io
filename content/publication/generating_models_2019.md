@@ -18,7 +18,7 @@ url_video = ""
 
 [[authors]]
     id = "gokhan_y"
-    is_member = true
+    is_member = false
 [[authors]]
     id = "nikolay_j"
     is_member = true

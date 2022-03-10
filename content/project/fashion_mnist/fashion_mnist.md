@@ -19,7 +19,7 @@ title = "Fashion MNIST"
 
 
 
-### Research Project by [Kashif Rasul](/member/kashif_r), Han Xiao (ex-member) & [Roland Vollgraf](/member/roland_v)
+### Research Project by [Kashif Rasul](/alumni/kashif_r), Han Xiao (ex-member) & [Roland Vollgraf](/alumni/roland_v)
 
 Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Fashion-MNIST is intended to serve as a direct drop-in replacement of the original MNIST dataset for benchmarking machine learning algorithms. ![fashion-mnist-sprite](img/fashion-mnist-sprite.png) 
 

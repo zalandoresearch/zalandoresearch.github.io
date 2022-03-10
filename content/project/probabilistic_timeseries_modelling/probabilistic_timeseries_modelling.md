@@ -29,7 +29,7 @@ title = "Probabilistic Time Series Modelling"
 
 +++
 
-## Research Project by [Ingmar Schuster](/member/ingmar_s), [Kashif Rasul](/member/kashif_r), Urs Bergmann, [Calvin Seward](/member/calvin_s), & [Roland Vollgraf](/member/roland_v)
+## Research Project by [Ingmar Schuster](/alumni/ingmar_s), [Kashif Rasul](/alumni/kashif_r), Urs Bergmann, [Calvin Seward](/member/calvin_s), & [Roland Vollgraf](/alumni/roland_v)
 
 This project aims at probabilistic time series models, which is a general problem setting across many modern internet companies. In other words, we want to be capable of getting a predictive distribution for the value of a time series at future time points from our model. Such solutions are widely applicable to a number of Zalando use cases for example demand and trend forecasting or detecting anomalous behaviour. Probabilistic models also help our stakeholders to better assess the risk associated with any forecast and provide a way to quantify the uncertainty associated especially when predicting far into the future. We currently follow two main approaches, one based on a recurrent neural network, the other on reproducing kernel hilbert space (RKHS) operators.
 
