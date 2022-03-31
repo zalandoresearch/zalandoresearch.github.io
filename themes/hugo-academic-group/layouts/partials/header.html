@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="theme" content="hugo-academic-group" />
+    <meta http-equiv="refresh" content="0;url=https://github.com/zalandoresearch/" />
 
     {{ with .Site.Params.name }}
     <meta name="author" content="{{ . }}" />
@@ -61,9 +62,15 @@
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <style>
+    body * { display: none; }
+    body #redirect { display: block; margin: 1em; font-weight: bold; }
+    body #redirect a { display: inline; }
+    </style>
   </head>
 
   <body>
+      <div id="redirect">Redirecting to <a href="https://github.com/zalandoresearch/">github.com/zalandoresearch/</a> ...</div>
     <div class="home-anchor" id="home"></div>
   </body>
 </html>
